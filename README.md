@@ -1,3 +1,3 @@
 # Tic-Tac-Toe
 Tic Tac Toe Game in Javascript,Bootstrap,Css,Html
-You can simply run the attached tictactoe.html file in your browser.
+You can simply run the game in your browser using the link https://anshubajaj911.github.io/Tic-Tac-Toe/
