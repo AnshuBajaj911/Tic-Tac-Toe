@@ -1,0 +1,33 @@
+
+        div{
+            margin-top: 80px;
+                                  
+        }
+        p{ 
+            margin-top: 50px;
+            font-size: 30px;
+            margin-left: 510px;
+            font-weight: 500;
+            color: white;
+        }
+        #p2{
+             margin-left: 660px;
+            margin-top: 60px;
+            color: white;
+        }
+        #p3,#p4{
+             margin-left: 660px;
+           color: white;
+        }
+        table,td{
+        color: aqua;
+            margin-left: 40%;
+             padding: auto;
+        }
+        input{
+           
+            width:80px;
+            height:80px;
+            
+        }
+    
